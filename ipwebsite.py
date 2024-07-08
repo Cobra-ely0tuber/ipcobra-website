@@ -1,5 +1,5 @@
 import os
-os.system
+os.system('clear') 
 
 r ="\033[0;31m"
 print(r+'┏━━━┓┃┃┃┓┃┃┃┃┃┃┃┃┃┃┃┃┃┃┓┃┃┃┃┃┃┃┃┃┃┃┏┓┃┃┃┃┓┃┃') 
